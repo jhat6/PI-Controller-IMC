@@ -1,6 +1,6 @@
 This program defines a class for a PI tuing closed loop control system using the internal model control method.  
 
-See this reference for background on this tuning method: 
+See this reference for background: 
 
 Daniel E. Rivera, Manfred Morari, and Sigurd Skogestad
 Internal model control: PID controller design
